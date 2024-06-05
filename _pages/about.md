@@ -10,6 +10,6 @@ redirect_from:
 thesis
 papers
 
-About
+Section 2
 ======
-Test2
+Test
