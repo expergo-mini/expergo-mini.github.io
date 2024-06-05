@@ -8,9 +8,6 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-         
-  - title: "CV"
-    url: /cv/
 
   - title: "Content samples"
     url: /archive-layout-with-content/
