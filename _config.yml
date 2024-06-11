@@ -1,18 +1,18 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Expergo-mini"
+title                    : "Expergo"
 title_separator          : "-"
 name                     : &name "Expergo"
-description              : &description "personal description"
+description              : &description "Portfolio Website"
 url                      : https://expergo-mini.github.io 
 baseurl                  : ""
 repository               : "expergo-mini/expergo-mini.github.io"
 
 author:
   # Biographic information
-  name             : "Expergo00"
-  bio              : "Short info"
-  location         : "Moon11"
+  name             : "George"
+  bio              : "Professional Olympic Breaker"
+  location         : "Moon"
 
   # Socials
   arxiv            : # 
@@ -40,21 +40,7 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 # Reading Files
 include:
@@ -112,9 +98,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,44 +9,23 @@ redirect_from:
   - /cv
 ---
 
-Testing..
+Breaking competitions at the 2024 Summer Olympics are scheduled to run from 9 to 10 August at Place de la Concorde, marking the sport's official debut in the program and the first dancesport discipline to appear in Summer Olympic history.
 
 Education
 ======
-* Ph.D in Theory, GitHub University, 2024
-* M.S. in Jekyll, GitHub University, 2023
-* B.S. in GitHub, GitHub University, 2022
+* Ph.D in Physics, Lilly University, 2026
+* M.S. in Dance, Sonbol University, 2023
+* B.S. in Basket weaving, Stirling University, 2022
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Beyblade
+* Elements of Breaking
+  * Top Rock
+  * Down Rock
+  * Freezes
+* The worm
 
-Publications
+Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-  
-Service and leadership
-======
-* teams
-
-
-thesis
-papers
-
-Section 2
-======
-Test
+* Captain of all street cats

@@ -14,22 +14,16 @@
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
-
 @import "reset";
-@import "base";
+@import "tables";
 
+@import "base";
 @import "utilities";
 @import "animations";
-@import "tables";
 @import "buttons";
-@import "notices";
 @import "masthead";
 @import "navigation";
 @import "footer";
-@import "syntax";
-
-@import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
